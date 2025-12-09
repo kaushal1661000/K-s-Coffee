@@ -252,7 +252,7 @@ header .navbar{
     padding: 50px 0 100px;
     background-color: var(--light-pink-color);
 }
-.testimonialssection .slidewrapper{
+.testimonialssection .sliderwrapper{
     overflow: hidden;
     margin: 0 60px 50px;
 }
@@ -264,9 +264,9 @@ header .navbar{
     align-items: center;
 }
 .testimonialssection .testimonial .userimage{
-    width: 140px;
-    height: 140px;
-    /* object-fit: cover; */
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
     margin-bottom: 50px;
     border-radius: var(--border-radius-circle);
 }
